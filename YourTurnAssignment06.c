@@ -1,4 +1,3 @@
-//std id=2200003366
 //name-surname= Saadet Elizaveta BABAL
 //In this project, i wanted to create an inventory with the information entered by the user and write a program where i can share this inventory information with the user.
 #define _CRT_SECURE_NO_WARNINGS//Here i used this statement to avoid problems with scanfs.
